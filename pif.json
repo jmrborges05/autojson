@@ -4,7 +4,7 @@
   "MANUFACTURER": "Google",
   "BRAND": "google",
   "MODEL": "Pixel 8a",
-  "FINGERPRINT": "google/akita_beta/akita:15/BP11.241121.013/12873528:user/release-keys",
-  "SECURITY_PATCH": "2024-12-05",
+  "FINGERPRINT": "google/akita_beta/akita:Baklava/BP22.250103.008/12932282:user/release-keys",
+  "SECURITY_PATCH": "2025-01-05",
   "FIRST_API_LEVEL": "null"
 }
